@@ -1,6 +1,15 @@
 # URLManipulator
 URLManipulator:\
-![](https://imgur.com/a/N05sFSQ)
+![](https://streamable.com/h0v485)
+
+
+
+
+
+
+
+
+
 
 
 The python script takes 3 arguments:\
